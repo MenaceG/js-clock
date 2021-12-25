@@ -16,7 +16,7 @@ h1{
 .clock {
     background-color: rgb(253, 238, 98);
     width: 50%;
-    border-radius: 60px;
+    border-radius: 30px;
     border-width: 28px;
     border-style: solid;
     border-color: tomato;
